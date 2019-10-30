@@ -5,7 +5,7 @@
 ## Steps To Install:
 
 ### React Frontend :
-- Clone the Repository.
+- ##Clone the Repository.
 - Go to `/Jwt-Auth-React/FE`
 - Run `npm install`
 - Run `npm start`
