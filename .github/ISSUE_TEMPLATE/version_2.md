@@ -1,7 +1,7 @@
 ---
 name: Version 2
 about: Create a report to help us improve
-title: ''
+title: '[V2.0]'
 labels: v.2
 assignees: ''
 
