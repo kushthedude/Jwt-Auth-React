@@ -1,6 +1,5 @@
-# Jwt-Auth-React
+# JWT-Auth-React
 
-### App created for Zigway.co
 
 ## Steps To Install:
 
