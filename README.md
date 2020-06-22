@@ -21,3 +21,5 @@
 - If everything goes well, You can start server by `python manager.py runserver`
 
 #### Visit the app on `http://localhost:3000/`
+
+### Comment by Aniruddh
