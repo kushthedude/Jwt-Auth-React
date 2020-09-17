@@ -1,15 +1,15 @@
-# JWT-Auth-React
+## JWT-Auth-React
 
 
-## Steps To Install:
+### Steps To Install:
 
-### React Frontend :
+#### React Frontend :
 - Clone the Repository.
 - Go to `/Jwt-Auth-React/FE`
 - Run `npm install`
 - Run `npm start`
 
-### Django Server:
+#### Django Server:
 - After successfully executing the FrontEnd steps, Navigate to `/Jwt-Auth-React/backend`
 - Create a Virtual Env by `virtualenv -p python3 venv`
 - Activate it by `source venv/bin/activate`
